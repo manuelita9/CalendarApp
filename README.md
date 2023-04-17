@@ -1,1 +1,2 @@
 # CalendarApp
+Built a basic calendar application that enables users to store events for every hour of the day. This application will execute within the browser and exhibit dynamically updated HTML and CSS powered by jQuery. It is also known as a daily planner. 
